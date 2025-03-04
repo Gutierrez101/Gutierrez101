@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning database systems, data structures, web programming and system parallelization<br>🎯 Goals: Develop web and mobile applications<br>🎲 Fun fact: Quick use of git, I learn quickly and I do well</p>
 
 ###
 
